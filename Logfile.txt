@@ -1,0 +1,73 @@
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+____________________________________________________________
+
+
+New launch
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Error: Unknown parameterpolyguns_count=10000. Use option -help to see possible params
+____________________________________________________________
+
+
+New launch
+Error: Unknown parameterpolygon_count=100. Use option -help to see possible params
+____________________________________________________________
+
+
+New launch
+Error: Unknown parameterpolygon_count=100. Use option -help to see possible params
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created

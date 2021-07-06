@@ -1,0 +1,90 @@
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+____________________________________________________________
+
+
+New launch
+Error: Unknown parameterD:\study\magsem2\speccourse\Generatishe\Debug\Generatishe.exe. Use option -help to see possible params
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Error: Read input step failed
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Error: Read input step failed
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Error: Unknown parameterD:\study\magsem2\speccourse\Generatishe\Debug\Generatishe.exe. Use option -help to see possible params
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+____________________________________________________________
+
+
+New launch
+Warning: Missing parameter file name. File will be created by generator.
+Test successfully created
